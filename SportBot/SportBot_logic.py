@@ -363,6 +363,4 @@ class SportBotLogic:
 
 
 
-SportBotLogic.GetNFLPlayerStats("sf", "2023", "Brandon Aiyuk", "2")
-SportBotLogic.GetNBAPlayerStats("phi", "2023", "Tobias Harris", "2")
 
